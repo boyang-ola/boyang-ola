@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [人静止提着物体不做功，那为什么会感到累？](https://daily.zhihu.com/story/9753154)
-- [有什么和“生命都会死亡”一样的基础规则，可以帮助我们对生命意义进行思考?](https://daily.zhihu.com/story/9753164)
-- [外行对你熟知的领域有哪些误解？](https://daily.zhihu.com/story/9753168)
-- [你相册中最舍不得删的一张「饭照」是哪张？吃的什么食物，有什么故事？](https://daily.zhihu.com/story/9753174)
-- [什么叫「好」的词曲，「好」的编曲，「好」的混音，「好」的音色...如何定义「好」？](https://daily.zhihu.com/story/9753175)
+- [百度文心一言推出内测专用独立 App；暴雪回应被网易起诉：未收到相关诉状；iOS 17或支持第三方应用商店 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/130379118)
+- [字节辟谣 140 万美元年薪挖角 OpenAI 成员；网之易起诉暴雪欠款 3 亿；​确认侵权！三星被判赔 20 亿|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130357650)
+- [微软总裁称中国将是 ChatGPT 主要对手；曝苹果 M3 芯片下半年量产；Linux 6.3 正式发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130335791)
+- [马云获聘香港大学荣誉教授；马斯克预计 2 个月内再次尝试发射星舰；​Rust 1.69.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130314874)
+- [杭州一公司开20万月薪抢AIGC算法工程师；SpaceX「星舰」发射任务失败；华为宣布实现ERP自主可控，突破封锁|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130280456)
 <!-- BLOG-POST-LIST:END -->
