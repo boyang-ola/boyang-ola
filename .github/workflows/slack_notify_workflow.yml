@@ -1,0 +1,16 @@
+name: Send Slack message
+
+on:
+  schedule:
+    # UTC 时间，每天上午11点30分
+    - cron: '30 11 * * *'
+
+jobs:
+  send_message:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Send message
+      env:
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+      run: |
+        curl -X POST -H 'Content-type: application/json' --data "{\"text\":\"该点下午茶了！！！ :doge::doge::doge:\",\"username\":\"提醒哥\",\"icon_emoji\": \"\:skull\:\",}" $SLACK_WEBHOOK
