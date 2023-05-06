@@ -4,6 +4,7 @@ on:
   schedule:
     # UTC 时间，每天上午11点30分
     - cron: '30 11 * * *'
+  workflow_dispatch: 
 
 jobs:
   send_message:
