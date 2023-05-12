@@ -3,11 +3,8 @@ name: Send Slack message
 on:
   schedule:
     # UTC 时间，每天上午11点30分
-    - cron: '30 11 * * *'
+    - cron: '30 3 * * *'
   workflow_dispatch: 
-
-env:
-    TZ: Asia/Shanghai
     
 jobs:
   send_message:
