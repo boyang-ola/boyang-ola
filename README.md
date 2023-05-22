@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [不刷卡，不扫码，微信推出刷掌支付；AI“黑箱”被打开？谷歌找到大模型能力涌现机制|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130800631)
 - [中国有哪些特有物种？](https://daily.zhihu.com/story/9761755)
 - [科学史上有哪些令人惋惜的遗憾？](https://daily.zhihu.com/story/9761749)
 - [你拍过或看过哪些天文现象？](https://daily.zhihu.com/story/9761752)
 - [宇宙天体有哪些超乎想象的演化方式？](https://daily.zhihu.com/story/9761758)
-- [如果我有一个永远保持在 120℃ 的方块，能用来做什么？](https://daily.zhihu.com/story/9761818)
 <!-- BLOG-POST-LIST:END -->
