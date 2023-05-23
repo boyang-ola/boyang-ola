@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [不刷卡，不扫码，微信推出刷掌支付；AI“黑箱”被打开？谷歌找到大模型能力涌现机制|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130800631)
-- [中国有哪些特有物种？](https://daily.zhihu.com/story/9761755)
-- [科学史上有哪些令人惋惜的遗憾？](https://daily.zhihu.com/story/9761749)
-- [你拍过或看过哪些天文现象？](https://daily.zhihu.com/story/9761752)
-- [宇宙天体有哪些超乎想象的演化方式？](https://daily.zhihu.com/story/9761758)
+- [普通民众天文常识匮乏到什么地步？](https://daily.zhihu.com/story/9761800)
+- [升力是如何产生的？](https://daily.zhihu.com/story/9761831)
+- [核电站发电的原理就是「烧开水」吗？](https://daily.zhihu.com/story/9761839)
+- [人的大脑真的是越用越聪明吗？](https://daily.zhihu.com/story/9761847)
+- [为什么胶片的画质这么好，我们平时看到的老照片却都很模糊呢？](https://daily.zhihu.com/story/9761855)
 <!-- BLOG-POST-LIST:END -->
