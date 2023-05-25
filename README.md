@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [谷歌CEO撰文：要安全、负责任地搞人工智能；GPT-4通过CPA会计考试；cURL 8.1 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130840358)
-- [现代建筑中如何利用柱子来塑造空间？](https://daily.zhihu.com/story/9761805)
-- [为何有的城市居民更喜欢称呼「区块名」而不是「政区名」？](https://daily.zhihu.com/story/9761883)
-- [常说的「被气到高血压」，生气真的会导致高血压吗？](https://daily.zhihu.com/story/9761898)
-- [古代人想丢垃圾但没垃圾桶怎么办？他们是如何处理垃圾的？](https://daily.zhihu.com/story/9761906)
+- [如何理解「混沌理论」，它有什么特性，有哪些著名的例子？](https://daily.zhihu.com/story/9761872)
+- [商鞅规定秦国士兵斩获一颗首级就能晋升一级爵位，那秦国爵位含金量如何？](https://daily.zhihu.com/story/9761868)
+- [任何密码都可以用穷举推算出来，只是时间问题。如果是这样的话，那不是很不安全吗？](https://daily.zhihu.com/story/9761875)
+- [怎样进行良好的情绪管理？](https://daily.zhihu.com/story/9761889)
+- [永暑岛的淡水资源是怎么被发现的？](https://daily.zhihu.com/story/9761986)
 <!-- BLOG-POST-LIST:END -->
