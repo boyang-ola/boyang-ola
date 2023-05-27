@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [如何成为游戏关卡设计师？](https://daily.zhihu.com/story/9761893)
-- [大型电器接地的那一根，如果单拿出来插到塑料塑料小花盆里，可以实现其原有功能么？](https://daily.zhihu.com/story/9761902)
-- [「捕食者」第一次见到「被捕食者」的时候，如何判断的对方可以捕食的？](https://daily.zhihu.com/story/9761907)
-- [摔炮为何一摔就响？是什么原理?](https://daily.zhihu.com/story/9762010)
-- [矩阵的本质是什么？](https://daily.zhihu.com/story/9762031)
+- [为什么人口大爆发的清朝，汉族人口越来越多，而蒙汉一家的满族人越来越少？](https://daily.zhihu.com/story/9761923)
+- [抱团取暖的企鹅最外层会被冻死吗？](https://daily.zhihu.com/story/9761935)
+- [乌饭叶能让米饭变黑的原理是什么，还有哪些「植物染」的有趣食物？](https://daily.zhihu.com/story/9761945)
+- [为什么傅里叶变换可以把时域信号变为频域信号？](https://daily.zhihu.com/story/9761950)
+- [为什么中国发展不起来内河航运呢？](https://daily.zhihu.com/story/9762000)
 <!-- BLOG-POST-LIST:END -->
