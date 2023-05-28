@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [为什么人口大爆发的清朝，汉族人口越来越多，而蒙汉一家的满族人越来越少？](https://daily.zhihu.com/story/9761923)
-- [抱团取暖的企鹅最外层会被冻死吗？](https://daily.zhihu.com/story/9761935)
-- [乌饭叶能让米饭变黑的原理是什么，还有哪些「植物染」的有趣食物？](https://daily.zhihu.com/story/9761945)
-- [为什么傅里叶变换可以把时域信号变为频域信号？](https://daily.zhihu.com/story/9761950)
-- [为什么中国发展不起来内河航运呢？](https://daily.zhihu.com/story/9762000)
+- [你家的猫做过哪些不可思议的事？](https://daily.zhihu.com/story/9761956)
+- [对光来说，时间静止吗？](https://daily.zhihu.com/story/9761958)
+- [为什么蜜蜂的针连着肠子，它的生物学意义是什么？](https://daily.zhihu.com/story/9761959)
+- [为什么低温只能达到 -273.15℃，而高温可以达到上亿亿摄氏度？](https://daily.zhihu.com/story/9761968)
+- [苏联为什么会输掉冷战？](https://daily.zhihu.com/story/9761975)
 <!-- BLOG-POST-LIST:END -->
