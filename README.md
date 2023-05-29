@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [你家的猫做过哪些不可思议的事？](https://daily.zhihu.com/story/9761956)
-- [对光来说，时间静止吗？](https://daily.zhihu.com/story/9761958)
-- [为什么蜜蜂的针连着肠子，它的生物学意义是什么？](https://daily.zhihu.com/story/9761959)
-- [为什么低温只能达到 -273.15℃，而高温可以达到上亿亿摄氏度？](https://daily.zhihu.com/story/9761968)
-- [苏联为什么会输掉冷战？](https://daily.zhihu.com/story/9761975)
+- [为什么古代虎符不会被人仿造后拿去调兵？](https://daily.zhihu.com/story/9762015)
+- [世界上有哪些包含「棋局」的画作？](https://daily.zhihu.com/story/9761606)
+- [你是怎么变自律的？](https://daily.zhihu.com/story/9762037)
+- [材料有哪些表面处理工艺？](https://daily.zhihu.com/story/9762049)
+- [为什么日本的政府部门叫作「省」？](https://daily.zhihu.com/story/9762065)
 <!-- BLOG-POST-LIST:END -->
