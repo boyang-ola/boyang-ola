@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [李彦宏宣布设立10亿创投基金促进大模型生态发展；Kindle中国电子书店停止运营；Bootstrap 5.3发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/130982043)
-- [锂电池经常爆炸，为啥不用（便宜，很重，安全）的铅酸电池？](https://daily.zhihu.com/story/9762126)
-- [人类没有离开太阳系，是怎么看到银河系全貌的？](https://daily.zhihu.com/story/9762134)
-- [变奏曲、协奏曲、交响曲、奏鸣曲等有什么区别？](https://daily.zhihu.com/story/9762149)
-- [宇宙中有哪些很美丽、震撼、神奇的现象？](https://daily.zhihu.com/story/9762165)
+- [如何理解「混沌理论」，它有什么特性，有哪些著名的例子？](https://daily.zhihu.com/story/9762175)
+- [为什么长江以北的省份海岸线整体平整，而长江以南的海岸线却整体崎岖？](https://daily.zhihu.com/story/9762306)
+- [自动控制方面的大牛们都有哪些主要贡献？](https://daily.zhihu.com/story/9762189)
+- [有哪些外行看上去很普通，但在内行眼里其实非常高级的东西？](https://daily.zhihu.com/story/9762192)
+- [哪些数学命题曾经长期被误认为是正确的，但之后被严格证明是错的？](https://daily.zhihu.com/story/9762195)
 <!-- BLOG-POST-LIST:END -->
