@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [中国古代兵器史的发展大概是什么流程？](https://daily.zhihu.com/story/9762229)
-- [各个时代都有哪些占据绝对优势的「顶级掠食者」？](https://daily.zhihu.com/story/9762231)
-- [为什么星星看起来不模糊，尽管地球一直在动？](https://daily.zhihu.com/story/9762234)
-- [如何证明或反驳「一个红色的物体，当没有人看它的时候，它依然是红色」？](https://daily.zhihu.com/story/9762292)
-- [如何让太阳从西边升起？](https://daily.zhihu.com/story/9762295)
+- [存在可以不依赖其他任何其他生物存活的生物吗？](https://daily.zhihu.com/story/9762252)
+- [亚洲由哪些陆块组成？](https://daily.zhihu.com/story/9762259)
+- [植物登上陆地之前陆地上是怎样的景观？](https://daily.zhihu.com/story/9762267)
+- [西夏到底是个什么王朝啊？](https://daily.zhihu.com/story/9762272)
+- [史前山脉比现代高还是低?](https://daily.zhihu.com/story/9762282)
 <!-- BLOG-POST-LIST:END -->
