@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [阿里云面向全球召开AI黑客编程大赛；OpenAI里程碑达成！全球最快实现10亿月活；Firefox 114发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131069578)
-- [中国的老虎都来自哪里？是如何起源的？](https://daily.zhihu.com/story/9762368)
-- [世界上为什么很少有从东向西的超级大河？](https://daily.zhihu.com/story/9762339)
-- [为什么重庆附近的山是带状纵向的？](https://daily.zhihu.com/story/9762347)
-- [中国在魏晋南北朝乱了那么久，为何到了隋突然就变得无比强盛？](https://daily.zhihu.com/story/9762356)
+- [「蜀道难」究竟是哪一段蜀道？](https://daily.zhihu.com/story/9762363)
+- [都是藏族，为什么分西藏和青海？](https://daily.zhihu.com/story/9762342)
+- [为什么中国古代的城防只发展出了夯土、包砖的城墙，而欧洲却发展出了石砌的城墙，甚至城堡？](https://daily.zhihu.com/story/9762373)
+- [小朋友到底应不应该购买 Switch?](https://daily.zhihu.com/story/9762408)
+- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9762390)
 <!-- BLOG-POST-LIST:END -->
