@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [中国有哪些值得一去但鲜为人知的遗迹？](https://daily.zhihu.com/story/9762423)
-- [OpenAI CEO 称公司没有上市计划；特斯拉自动驾驶将开放给其他车企；百度智能云推出代码助手 Comate|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131080979)
-- [「蜀道难」究竟是哪一段蜀道？](https://daily.zhihu.com/story/9762363)
-- [都是藏族，为什么分西藏和青海？](https://daily.zhihu.com/story/9762342)
-- [为什么中国古代的城防只发展出了夯土、包砖的城墙，而欧洲却发展出了石砌的城墙，甚至城堡？](https://daily.zhihu.com/story/9762373)
+- [为什么华夏族被称为「汉族」，而不是「秦族」、「唐族」？](https://daily.zhihu.com/story/9762429)
+- [为什么元朝以海运为主，明清以运河漕运为主呢？](https://daily.zhihu.com/story/9762406)
+- [「待会去码头整点薯条」是什么梗？](https://daily.zhihu.com/story/9762415)
+- [同样的食材蒸易熟还是用清水煮易熟，原理是什么？](https://daily.zhihu.com/story/9762432)
+- [中国古代一个时辰刚好是现在定义的两个小时吗？十二个时辰和 24 小时的关系只是巧合吗？](https://daily.zhihu.com/story/9762451)
 <!-- BLOG-POST-LIST:END -->
