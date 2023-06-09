@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [腾讯回应考生喊话马化腾；库克承认在使用 ChatGPT；OpenHarmony 4.0 Beta1 发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131101500)
-- [为什么华夏族被称为「汉族」，而不是「秦族」、「唐族」？](https://daily.zhihu.com/story/9762429)
-- [为什么元朝以海运为主，明清以运河漕运为主呢？](https://daily.zhihu.com/story/9762406)
-- [「待会去码头整点薯条」是什么梗？](https://daily.zhihu.com/story/9762415)
-- [同样的食材蒸易熟还是用清水煮易熟，原理是什么？](https://daily.zhihu.com/story/9762432)
+- [有哪些名字不好听，却很美的植物？](https://daily.zhihu.com/story/9762441)
+- [新疆的历史在汉朝以前是什么样的？](https://daily.zhihu.com/story/9762397)
+- [国内有哪些博物馆值得一去？](https://daily.zhihu.com/story/9762444)
+- [如果有一种技术能把两个人的大脑神经完全链接在一起，将会是两个还是一个自我意识呢？](https://daily.zhihu.com/story/9762454)
+- [建筑学中什么叫做大师级作品?](https://daily.zhihu.com/story/9762455)
 <!-- BLOG-POST-LIST:END -->
