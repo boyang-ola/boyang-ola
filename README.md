@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [建筑结构设计和音乐有着某些关系吗？](https://daily.zhihu.com/story/9762470)
-- [为什么猫不喜欢和狗玩？但狗却总喜欢粘着猫？](https://daily.zhihu.com/story/9762478)
-- [为什么所有的恐龙都灭绝了？](https://daily.zhihu.com/story/9762480)
-- [如果羊膜动物和两栖动物全部灭绝，鱼类还可能重新登陆吗?](https://daily.zhihu.com/story/9762534)
-- [有没有什么东西是放久了还可以吃的？](https://daily.zhihu.com/story/9762549)
+- [古代的杯子为什么都没有把儿？](https://daily.zhihu.com/story/9762469)
+- [老鼠怕猫究竟是脱氧核糖核酸（DNA）的遗传，还是面对比自身更庞大生物的恐惧？](https://daily.zhihu.com/story/9762503)
+- [辣椒原产于南美，但是为什么吃辣最多的大洲是亚洲，而南美人不吃辣？](https://daily.zhihu.com/story/9762510)
+- [白灼虾到底是水煮还是蒸？](https://daily.zhihu.com/story/9762514)
+- [如果把高铁的座位都换成动感单车，让乘客骑车提供动力，高铁能开多快？](https://daily.zhihu.com/story/9762673)
 <!-- BLOG-POST-LIST:END -->
