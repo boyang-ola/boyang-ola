@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [古代的杯子为什么都没有把儿？](https://daily.zhihu.com/story/9762469)
-- [老鼠怕猫究竟是脱氧核糖核酸（DNA）的遗传，还是面对比自身更庞大生物的恐惧？](https://daily.zhihu.com/story/9762503)
-- [辣椒原产于南美，但是为什么吃辣最多的大洲是亚洲，而南美人不吃辣？](https://daily.zhihu.com/story/9762510)
-- [白灼虾到底是水煮还是蒸？](https://daily.zhihu.com/story/9762514)
-- [如果把高铁的座位都换成动感单车，让乘客骑车提供动力，高铁能开多快？](https://daily.zhihu.com/story/9762673)
+- [有哪些古代很重要的地理通道现在废弃了？是什么原因？](https://daily.zhihu.com/story/9762529)
+- [摸猫的头时，猫为什么常常会闭眼？](https://daily.zhihu.com/story/9762520)
+- [罗马各个行省对其分别有哪些战略意义？](https://daily.zhihu.com/story/9762543)
+- [马论匹、猪论头、狗论条，为什么都是生活中常见的动物，但计量单位却不同？](https://daily.zhihu.com/story/9762546)
+- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9762465)
 <!-- BLOG-POST-LIST:END -->
