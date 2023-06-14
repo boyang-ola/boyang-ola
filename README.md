@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [蔚来全系降价3万元，取消终身免费换电；GPT-4两句话复刻DeepMind最快排序算法？Node.js20.3.0发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131182058)
-- [圆周率 π 在实际工程领域最多用到了多少位？](https://daily.zhihu.com/story/9762512)
-- [为什么古建筑中瓦片要「压六露四」，也就是每块瓦有十分之六被上一块瓦压住？](https://daily.zhihu.com/story/9762712)
-- [自然界中有哪些动物战斗力高于大熊猫？](https://daily.zhihu.com/story/9762752)
-- [有哪些较冷门但意义重大的考古发现？](https://daily.zhihu.com/story/9762758)
+- [为什么只有葡萄被大量用于酿酒，其他水果却没有？](https://daily.zhihu.com/story/9762710)
+- [有没有长相相同，但基因截然不同的生物？](https://daily.zhihu.com/story/9762613)
+- [日常生活中常见但不知名的昆虫有哪些？](https://daily.zhihu.com/story/9762708)
+- [刘备为什么不能扫平天下？](https://daily.zhihu.com/story/9762781)
+- [为什么英文中「狗 dog」和「小狗 puppy」差别那么大？](https://daily.zhihu.com/story/9762787)
 <!-- BLOG-POST-LIST:END -->
