@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [微软亚洲研究院辟谣撤离中国转移到加拿大；京东：未来二十年提供超过100万就业岗位；Meta发布新语音生成系统|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131281185)
 - [为什么水在 4℃ 以上是热胀冷缩，而 4℃ 以下热缩冷胀？](https://daily.zhihu.com/story/9762864)
 - [战国时期到秦朝的剑，究竟是青铜剑还是铁剑？](https://daily.zhihu.com/story/9762843)
 - [人类是通过语言介质进行思考的吗？](https://daily.zhihu.com/story/9762849)
 - [宇宙天体有哪些超乎想象的演化方式？](https://daily.zhihu.com/story/9762855)
-- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9762910)
 <!-- BLOG-POST-LIST:END -->
