@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [中国有哪些逆天的文物？](https://daily.zhihu.com/story/9762729)
-- [哪些脆甜可口的植物不能随便生吃？](https://daily.zhihu.com/story/9762766)
-- [为什么人类喝地球的水需要过滤，而其他任何一种地球的生物可以直接喝地球的水？](https://daily.zhihu.com/story/9762836)
-- [为什么国内很多城市新建的高铁站都选在距市中心较远的地方，而不像香港西九站在市中心挖坑建造？](https://daily.zhihu.com/story/9762842)
-- [为什么传统的中国古建筑很少见到「圆顶」这种结构形式？](https://daily.zhihu.com/story/9762643)
+- [为什么水在 4℃ 以上是热胀冷缩，而 4℃ 以下热缩冷胀？](https://daily.zhihu.com/story/9762864)
+- [战国时期到秦朝的剑，究竟是青铜剑还是铁剑？](https://daily.zhihu.com/story/9762843)
+- [人类是通过语言介质进行思考的吗？](https://daily.zhihu.com/story/9762849)
+- [宇宙天体有哪些超乎想象的演化方式？](https://daily.zhihu.com/story/9762855)
+- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9762910)
 <!-- BLOG-POST-LIST:END -->
