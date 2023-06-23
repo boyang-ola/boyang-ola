@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [蜜蜂蜇人后死去是基于进化的最佳选择吗？](https://daily.zhihu.com/story/9762773)
-- [西方龙和中国龙看上去根本不是一个物种，为什么都叫龙（dragon）呢？](https://daily.zhihu.com/story/9762993)
-- [《哆啦 A 梦》里有哪些不为人知却又打动人心的细节？](https://daily.zhihu.com/story/9762998)
-- [为什么中国喜欢建巨型航站楼？](https://daily.zhihu.com/story/9763107)
-- [为什么中国城市很少有笔直的道路和棋盘式的城市肌理？](https://daily.zhihu.com/story/9762978)
+- [OpenAI考虑为AI创建应用程序商店；Meta员工年薪反超Google；Apache Doris 1.2.5发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131321345)
+- [马云非公开会议：阿里电商应该回归淘宝；微信上线“安静模式”；ChatGPT能分享Win11专业版密钥 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131299983)
+- [微软亚洲研究院辟谣撤离中国转移到加拿大；京东：未来二十年提供超过100万就业岗位；Meta发布新语音生成系统|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131281185)
+- [王小川新公司开源 70 亿参数量的中英文预训练大模型，可商用；谷歌要求员工慎用 AI，即便是自己家的 Bard|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131240397)
+- [比尔·盖茨到达北京；印度要求中国手机品牌高管应为印籍；Android 14 Beta 3 推出|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131221095)
 <!-- BLOG-POST-LIST:END -->
