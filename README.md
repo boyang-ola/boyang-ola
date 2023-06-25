@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [为什么大多数中原王朝能稳固占领河西走廊，地图上突出来的狭长的地方？](https://daily.zhihu.com/story/9763112)
-- [霸王龙会是一种动作缓慢的食肉恐龙吗？还是像电影中那样敏捷？](https://daily.zhihu.com/story/9763114)
-- [哪些行星外表迷人，实际上如地狱一般？](https://daily.zhihu.com/story/9763115)
-- [为什么奥地利首都 Wien 不按照德语翻译为维恩？](https://daily.zhihu.com/story/9763117)
-- [老秦人为何在秦朝覆灭时失去了当年赳赳老秦的抗争？](https://daily.zhihu.com/story/9763122)
+- [像桃花源这样的封闭聚落，最终都会因为近亲繁殖的问题而自然消亡吗？](https://daily.zhihu.com/story/9763125)
+- [为什么元朝以海运为主，明清以运河漕运为主呢？](https://daily.zhihu.com/story/9763134)
+- [为什么用「我」字作为第一人称?](https://daily.zhihu.com/story/9763140)
+- [电压伤人还是电流伤人？](https://daily.zhihu.com/story/9763148)
+- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9763079)
 <!-- BLOG-POST-LIST:END -->
