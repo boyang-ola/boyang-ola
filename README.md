@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [微信称不会推出「已读」功能；马斯克宣布成立 AI 公司 xAI；GPT-4 架构曝光，有 1.8 万亿参数|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131695256)
 - [Apple Store 上线微信小程序；谷歌自研芯片秘辛首次曝光；黑客要价 10 万美元出售雷蛇源码等数据 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/131674286)
 - [微信新增文章朗读功能；超越 ChatGPT 记录，Threads 上线 5 天用户破亿；在删除数据前如何通知客户|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131652970)
 - [微信支付兑换今日好礼不再累积提现免费额度；ChatGPT 上线最强应用「代码解释器」；GCC 10.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131631984)
 - [科大讯飞：10月24日发布通用大模型，全面对标ChatGPT；GPT-4 API全面开放使用；Bun 0.6.13发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131589952)
+- [阿里发布免费的全新可变字体；Stability AI CEO：5年内，人类程序员将不复存在；Perl 5.38发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131568806)
 <!-- BLOG-POST-LIST:END -->
