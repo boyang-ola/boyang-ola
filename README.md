@@ -1,6 +1,6 @@
 # 今天天气真好
 - 👋 这里啥都没有，[欢迎访问](https://zhangfeng-ola.github.io/)
-- 😭 脑壳有点疼
+- 😭 凑不够六个字。
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
