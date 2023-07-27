@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [微信可以批量删除好友；谷歌、微软等达成合作，致力于负责任地开发人工智能；​苹果我的照片流服务关闭|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131952794)
 - [Android版ChatGPT正式上线；苹果遭千名开发者索赔10亿美元；阿里加码AR，八天连投两家公司 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/131931906)
 - [华为鸿蒙HarmonyOS 4定档8月；ChatGPT之父的加密货币正式上线；微软必应聊天将推出重新生成答案功能|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131910400)
 - [​阿里最新年报：万霖、蒋凡成合伙人；Twitter 网址迁移至 X.com；Cython 3.0 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131889280)
 - [iPhone 15 或推迟上市；谷歌软件工程师基本年薪达 71.8 万美元；Godot 4.1.1 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131845214)
-- [百度文心大模型 3.5 斩获7个满分、三个第一；苹果正在测试 AppleGPT 产品；谷歌给员工断网，降低网络攻击风险|极客头条](https://blog.csdn.net/weixin_39786569/article/details/131822991)
 <!-- BLOG-POST-LIST:END -->
