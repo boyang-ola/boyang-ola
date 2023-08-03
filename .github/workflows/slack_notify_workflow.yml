@@ -1,9 +1,9 @@
 name: Send Slack message
 
-on:
-  schedule:
-    # UTC 时间，每天上午11点30分
-    - cron: '30 3 * * *'
+于:
+  # schedule:
+  #   # UTC 时间，每天上午11点30分
+  #   - cron: '30 3 * * *'
   workflow_dispatch: 
     
 jobs:
