@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [科大讯飞董事长刘庆峰：华为GPU已可对标英伟达A100；Windows 11 文件资源管理器支持 RAR 等格式|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132532618)
-- [小米汽车工厂急招百余工人，待遇18薪；iPhone 15 USB-C接口确认限速；LibreOffice 7.6发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132489251)
-- [华为辟谣网传3.2万名科学家正式移籍；苹果回应iPhone14电池老化快：属正常现象；Excel集成Python|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132445977)
-- [苹果拒绝接口和安卓互通，违法也不在乎；马斯克承认公司可能失败；Debian支持龙芯LoongArch架构|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132421335)
-- [iPhone 15系列USB-C数据线曝光；Flutter 3.13发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/132401844)
+- [酒那么难喝，为什么那么多人还喜欢喝酒？](https://daily.zhihu.com/story/9763334)
+- [既然生命是为了繁衍生存，为何大部分植物未能演化出避免被吃掉的「武器」？](https://daily.zhihu.com/story/9763326)
+- [宇宙中有哪些奇异的卫星？](https://daily.zhihu.com/story/9763336)
+- [No title](https://daily.zhihu.com/story/9763339)
+- [No title](https://daily.zhihu.com/story/9763324)
 <!-- BLOG-POST-LIST:END -->
