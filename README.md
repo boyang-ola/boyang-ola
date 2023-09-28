@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [酒那么难喝，为什么那么多人还喜欢喝酒？](https://daily.zhihu.com/story/9763334)
-- [既然生命是为了繁衍生存，为何大部分植物未能演化出避免被吃掉的「武器」？](https://daily.zhihu.com/story/9763326)
-- [宇宙中有哪些奇异的卫星？](https://daily.zhihu.com/story/9763336)
-- [No title](https://daily.zhihu.com/story/9763339)
-- [No title](https://daily.zhihu.com/story/9763324)
+- [菜鸟已正式向港交所提交上市申请；消息称 OpenAI 拟出售数亿美元股票；React Native 0.72.5 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133341037)
+- [GPT 被曝重大缺陷：正确率几乎为 0%；腾讯面向全球发布“青云计划”；Unity 公布修改后的收费方案|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133266605)
+- [孟晚舟：华为致力于打造中国算力底座，支持大模型百花齐放 ；OpenAI 发布 DALL-E 3；传高通中国裁员|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133123865)
+- [任正非最新讲话曝光：苹果是华为的老师；微软 AI 团队意外泄露 38TB 数据；JDK 21 发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133065819)
+- [阿里全球数学竞赛诞生最年轻金奖得主；微软确认首席产品官离职；iOS 17 正式版发布|极客头条](https://blog.csdn.net/weixin_39786569/article/details/133014003)
 <!-- BLOG-POST-LIST:END -->
