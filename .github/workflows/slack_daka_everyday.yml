@@ -61,15 +61,20 @@ jobs:
             ]
           }
     - name: finally message
+      id: finalmessage
       run: |
         echo "::warning hhala:Missing semicolon"
         echo "AAA=halou" >> $GITHUB_OUTPUT
         echo "BBB=123" >> $GITHUB_OUTPUT
         echo "CCC=😭" >> $GITHUB_OUTPUT
         echo "DDD=:weary_face:" >> $GITHUB_OUTPUT
-        echo ${{ GITHUB_OUTPUT }}
     - name: finally message
       run: |
         echo "😭 last"
+        echo ${{ steps.finalmessage.outputs.AAA }}
+        echo ${{ steps.finalmessage.outputs.BBB }}
+        echo ${{ steps.finalmessage.outputs.CCC }}
+        echo ${{ steps.finalmessage.outputs.DDD }}
+        echo "bye bye"
          
          
