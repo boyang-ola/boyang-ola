@@ -55,11 +55,19 @@ jobs:
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ toJSON(steps.notify.outputs) }}\nGithub json = ${{ toJSON(github) }} \nNext Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ toJSON(steps.notify.outputs) }}\nNext Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
                 }
               }
             ]
           }
+    - name: finally message
+      run: |
+        echo "::warning hhala:Missing semicolon"
+        echo "AAA=halou" >> $GITHUB_OUTPUT
+        echo "BBB=123" >> $GITHUB_OUTPUT
+        echo "CCC=😭" >> $GITHUB_OUTPUT
+        echo "DDD=:weary_face:" >> $GITHUB_OUTPUT
+        echo $GITHUB_OUTPUT
     - name: finally message
       run: |
         echo "::warning hhala:Missing semicolon"
