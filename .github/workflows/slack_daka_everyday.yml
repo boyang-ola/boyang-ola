@@ -38,7 +38,7 @@ jobs:
         
 
     - name: Slack Message Status Check
-      id: check status
+      id: check_slack_status
       uses: slackapi/slack-github-action@v1.24.0
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
