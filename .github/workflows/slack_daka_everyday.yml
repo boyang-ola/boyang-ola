@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Slack Send Message To Channel
+      id: notify
       uses: slackapi/slack-github-action@v1.24.0
+      outputs:
+        ts: ${{ steps.notify.outputs.ts }}
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
       with:
@@ -27,7 +30,7 @@ jobs:
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": " Github 执行结果: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                  "text": " Github 执行结果: ${{ job.status }}, outputs : ${{ outputs }}\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
                 }
               }
             ]
