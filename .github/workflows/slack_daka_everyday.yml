@@ -55,7 +55,7 @@ jobs:
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ toJSON(steps.notify.outputs) }}\nNext Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ steps.notify.outputs.ts }}\nNext Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
                 }
               }
             ]
