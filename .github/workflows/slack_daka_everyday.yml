@@ -1,17 +1,34 @@
 name: Slack Daka EveryDay
 
 on:
-  schedule:
-    # UTC 时间，每天上午11点30分
-    - cron: '30 3 * * *'
+  # schedule:
+  #   # UTC 时间，每天上午11点30分
+  #   - cron: '30 3 * * *'
   workflow_dispatch: 
     
 jobs:
   send_message:
     runs-on: ubuntu-latest
     steps:
-    - name: Send message
+    - name: Slack Send Message To Channel
+      uses: slackapi/slack-github-action@v1.24.0
       env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_DAKA_xiawucha_wancan_tonzhi_qun }}
-      run: |
-        curl -X POST -H 'Content-type: application/json' --data "{\"text\":\"该点下午茶了！！！ :doge::doge::doge:\",\"username\":\"提醒哥\",\"icon_emoji\": \":one-sec-cooking:\",}" $SLACK_WEBHOOK
+        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+      with:
+        # Slack channel id, channel name, or user id to post message.
+        # See also: https://api.slack.com/methods/chat.postMessage#channels
+        channel-id: ${{ vars.SLACK_CHANNEL_BLACK_HOLE }}
+        # For posting a rich message using Block Kit
+        payload: |
+          {
+            "text": "执行结果: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": " Github 执行结果: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                }
+              }
+            ]
+          }
