@@ -67,9 +67,9 @@ jobs:
         echo "BBB=123" >> $GITHUB_OUTPUT
         echo "CCC=😭" >> $GITHUB_OUTPUT
         echo "DDD=:weary_face:" >> $GITHUB_OUTPUT
-        echo $GITHUB_OUTPUT
+        echo ${{ GITHUB_OUTPUT }}
     - name: finally message
       run: |
-        echo "::warning hhala:Missing semicolon"
+        echo "😭 last"
          
          
