@@ -37,26 +37,26 @@ jobs:
           }
         
 
-    -name: Slack Message Status Check
-    id: check status
-    uses: slackapi/slack-github-action@v1.24.0
-    env:
-      SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-    with:
-      # Slack channel id, channel name, or user id to post message.
-      # See also: https://api.slack.com/methods/chat.postMessage#channels
-      channel-id: ${{ vars.SLACK_CHANNEL_BLACK_HOLE }}
-      # For posting a rich message using Block Kit
-      payload: |
-        {
-          "text": "执行结果: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
-          "blocks": [
-            {
-              "type": "section",
-              "text": {
-                "type": "mrkdwn",
-                "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ outputs }}\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+    - name: Slack Message Status Check
+      id: check status
+      uses: slackapi/slack-github-action@v1.24.0
+      env:
+        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+      with:
+        # Slack channel id, channel name, or user id to post message.
+        # See also: https://api.slack.com/methods/chat.postMessage#channels
+        channel-id: ${{ vars.SLACK_CHANNEL_BLACK_HOLE }}
+        # For posting a rich message using Block Kit
+        payload: |
+          {
+            "text": "执行结果: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ outputs }}\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                }
               }
-            }
-          ]
-        }
+            ]
+          }
