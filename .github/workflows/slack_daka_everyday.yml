@@ -40,6 +40,7 @@ jobs:
     - name: Slack Message Status Check
       id: check status
       uses: slackapi/slack-github-action@v1.24.0
+      needs: [notify]
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
       with:
@@ -55,7 +56,7 @@ jobs:
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ outputs }}\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                  "text": " Github 执行结果2: ${{ github.run_id }} Build ${{ github.run_number }} ${{ job.status }}, outputs : ${{ needs.notify.outputs }}\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
                 }
               }
             ]
