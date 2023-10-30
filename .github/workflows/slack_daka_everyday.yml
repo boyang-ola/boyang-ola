@@ -8,13 +8,13 @@ on:
     
 jobs:
   send_message:
+    outputs:
+      ts: ${{ steps.notify.outputs.ts }}
     runs-on: ubuntu-latest
     steps:
     - name: Slack Send Message To Channel
       id: notify
       uses: slackapi/slack-github-action@v1.24.0
-      outputs:
-        ts: ${{ steps.notify.outputs.ts }}
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
       with:
