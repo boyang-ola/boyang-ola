@@ -26,3 +26,7 @@ You can click the Preview link to take a look at your changes.
 - [百度文心一言推出专业版，定价为 59.9 元/月；ChatGPT 参数只有 200 亿，微软首次曝光｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134175488)
 - [vivo 将发布全球首款基于 Rust 编写的操作系统；Windows 11 更新，含 AI 助手 Copilot｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134158448)
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- CROWDIN-TRANSLATIONS-PROGRESS-ACTION-START -->
+<!-- CROWDIN-TRANSLATIONS-PROGRESS-ACTION-END -->
