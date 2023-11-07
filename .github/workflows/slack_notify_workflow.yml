@@ -20,8 +20,8 @@ jobs:
           minimum_completion_percent: 80
           file: README.md
         env:
-          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
-          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+          CROWDIN_PROJECT_ID: 17
+          CROWDIN_PERSONAL_TOKEN: 9651745ba4056004051deb656ef3df4bd9c3d0634eaf45fc6bb6b3e91b5534bdc27718d9c9ddf29e
           CROWDIN_BASE_URL: https://olaparty.crowdin.com/api/v2
 
       - name: Create Pull Request
