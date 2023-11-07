@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 # 翻译进度
-(翻译进度)(https://raw.githubusercontent.com/zhangfeng-ola/zhangfeng-ola/crowdin-translations-progress-action/README.md)
+[翻译进度](https://github.com/zhangfeng-ola/zhangfeng-ola/blob/crowdin-translations-progress-action/README.md)
