@@ -27,5 +27,3 @@ You can click the Preview link to take a look at your changes.
 - [vivo 将发布全球首款基于 Rust 编写的操作系统；Windows 11 更新，含 AI 助手 Copilot｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134158448)
 <!-- BLOG-POST-LIST:END -->
 
-# 翻译进度
-[翻译进度](https://github.com/zhangfeng-ola/zhangfeng-ola/blob/crowdin-translations-progress-action/README.md)
