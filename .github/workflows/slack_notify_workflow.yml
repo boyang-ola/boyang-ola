@@ -1,17 +1,24 @@
-name: Send Slack message
+name: Crowdin translations progress
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-于:
-  # schedule:
-  #   # UTC 时间，每天上午11点30分
-  #   - cron: '30 3 * * *'
-  workflow_dispatch: 
-    
 jobs:
-  send_message:
+  crowdin-translations-progress:
     runs-on: ubuntu-latest
     steps:
-    - name: Send message
-      env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-      run: |
-        curl -X POST -H 'Content-type: application/json' --data "{\"text\":\"该点下午茶了！！！ :doge::doge::doge:\",\"username\":\"提醒哥\",\"icon_emoji\": \":one-sec-cooking:\",}" $SLACK_WEBHOOK
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Crowdin translations progress markdown
+        uses: benjaminjonard/crowdin-translations-progress-action@1.0.5
+        with:
+          languages_per_row: 10
+          minimum_completion_percent: 80
+          file: README.md
+        env:
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
