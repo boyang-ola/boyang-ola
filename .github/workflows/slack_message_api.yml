@@ -2,10 +2,6 @@ name: Slack Message Api
 
 on:
   workflow_dispatch: 
-  workflow_call:
-    
-jobs:
-  send_message_to_channel:
     #定义需要输入的参数
     inputs:
       # 第一个参数名叫prbody
@@ -14,6 +10,9 @@ jobs:
         description: "The channel id to send message to "
         # 必须参数
         required: true
+        type: string
+jobs:
+  send_message_to_channel:
 
     outputs:
       ts: ${{ steps.send_message.outputs.ts }}

@@ -8,7 +8,7 @@ on:
         required: true
         type: string
         default:
-    
+
 jobs:
   # before_send_message_demo:
   #   steps:
@@ -20,7 +20,8 @@ jobs:
     with:
       # Slack channel id, channel name, or user id to post message.
       # See also: https://api.slack.com/methods/chat.postMessage#channels
-      channel-id: ${{ github.event.inputs.channelId }}
+      channelId: ${{ github.event.inputs.channelId }}
+      botToken: ${{ secrets.SLACK_BOT_TOKEN }}
 
   # after_send_message_demo:
   #   needs: [before_send_message_demo, send_message_demo]
