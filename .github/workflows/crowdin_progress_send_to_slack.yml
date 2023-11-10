@@ -15,16 +15,16 @@ jobs:
   crowdin-translations-progress:
     runs-on: ubuntu-latest
     outputs:
-      vi: ${{ steps.my-script.outputs.vi }}
-      tr: ${{ steps.my-script.outputs.tr }}
-      th: ${{ steps.my-script.outputs.th }}
-      ms: ${{ steps.my-script.outputs.ms }}
-      ko: ${{ steps.my-script.outputs.ko }}
-      ja: ${{ steps.my-script.outputs.ja }}
-      id: ${{ steps.my-script.outputs.id }}
-      en: ${{ steps.my-script.outputs.en }}
-      ar: ${{ steps.my-script.outputs.ar }}
-      zh-TW: ${{ steps.my-script.outputs.zh-TW }}
+      vi: ${{ steps.crowdin_translations.outputs.vi }}
+      tr: ${{ steps.crowdin_translations.outputs.tr }}
+      th: ${{ steps.crowdin_translations.outputs.th }}
+      ms: ${{ steps.crowdin_translations.outputs.ms }}
+      ko: ${{ steps.crowdin_translations.outputs.ko }}
+      ja: ${{ steps.crowdin_translations.outputs.ja }}
+      id: ${{ steps.crowdin_translations.outputs.id }}
+      en: ${{ steps.crowdin_translations.outputs.en }}
+      ar: ${{ steps.crowdin_translations.outputs.ar }}
+      zh-TW: ${{ steps.crowdin_translations.outputs.zh-TW }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -36,10 +36,6 @@ jobs:
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           CROWDIN_BASE_URL: ${{ secrets.CROWDIN_BASE_URL }}
-
-      - name: Check Crowdin Result
-        run: ｜
-          echo ${{ steps.crowdin_translations.outputs.languages }}
     
   send-slack-message:
     runs-on: ubuntu-latest
