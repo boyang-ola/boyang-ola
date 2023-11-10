@@ -43,6 +43,11 @@ jobs:
     outputs:
       ts: ${{ steps.send_message.outputs.ts }}
     steps:
+      - name: Format slack message
+        id: format-slack-message
+        run: |
+          formattedSlackMessage="hello ${{ needs.crowdin-translations-progress.outputs.vi  }}"
+          echo "formatted-slack-message=${formattedSlackMessage}" >> $GITHUB_OUTPUT
       - name: Slack Send Message
         id: send_message
         uses: slackapi/slack-github-action@v1.24.0
@@ -55,7 +60,7 @@ jobs:
           # For posting a rich message using Block Kit
           payload: |
             {
-              "text": "执行结果: ${{ needs.crowdin-translations-progress.outputs.vi }}",
+              "text": "执行结果: ${{ steps.format-slack-message.outputs.formatted-slack-message }}",
               "blocks": [
                 {
                   "type": "section",
