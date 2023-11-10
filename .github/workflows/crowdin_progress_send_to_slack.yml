@@ -45,8 +45,12 @@ jobs:
     steps:
       - name: Format slack message
         id: format-slack-message
+        env: 
+          vi: ${{ needs.crowdin-translations-progress.outputs.vi  }}
         run: |
-          formattedSlackMessage="hello ${{ needs.crowdin-translations-progress.outputs.vi  }}"
+          echo ${{needs.crowdin-translations-progress.outputs.vi}}
+          echo "------------"
+          formattedSlackMessage="hello ${{ needs.crowdin-translations-progress.outputs.vi }}"
           echo "formatted-slack-message=${formattedSlackMessage}" >> $GITHUB_OUTPUT
       - name: Slack Send Message
         id: send_message
