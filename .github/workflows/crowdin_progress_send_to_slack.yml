@@ -45,13 +45,12 @@ jobs:
     steps:
       - name: Format slack message
         id: format-slack-message
-        env: 
-          vi: ${{ needs.crowdin-translations-progress.outputs.vi  }}
         run: |
-          echo ${{needs.crowdin-translations-progress.outputs.vi}}
-          echo "------------"
-          formattedSlackMessage="hello ${{ needs.crowdin-translations-progress.outputs.vi }}"
-          echo "formatted-slack-message=${formattedSlackMessage}" >> $GITHUB_OUTPUT
+          echo "------------------------------------------------------------"
+          echo ${{ needs.crowdin-translations-progress.outputs.vi }}
+          echo ${{ needs.crowdin-translations-progress.outputs.en }}
+          echo ${{ needs.crowdin-translations-progress.outputs.ja }}
+          
       - name: Slack Send Message
         id: send_message
         uses: slackapi/slack-github-action@v1.24.0
@@ -64,13 +63,210 @@ jobs:
           # For posting a rich message using Block Kit
           payload: |
             {
-              "text": "执行结果: ${{ steps.format-slack-message.outputs.formatted-slack-message }}",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": " Github 执行结果: ${{ job.status }},\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+                    "text": "<!channel> :open_mouth: *翻译进度提醒: *"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "越南语 vi 翻译进度 ${{ needs.crowdin-translations-progress.outputs.vi }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/vi",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "泰语 th 翻译进度 ${{ needs.crowdin-translations-progress.outputs.th }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/th",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "马来语 ms 翻译进度 ${{ needs.crowdin-translations-progress.outputs.ms }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/ms",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "韩语 ko 翻译进度 ${{ needs.crowdin-translations-progress.outputs.ko }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/ko",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "日本语 ja 翻译进度 ${{ needs.crowdin-translations-progress.outputs.ja }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/ja",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "印尼语 id 翻译进度 ${{ needs.crowdin-translations-progress.outputs.id }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/id",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "英语 ko 翻译进度 ${{ needs.crowdin-translations-progress.outputs.en }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/en",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "阿拉伯语 ar 翻译进度 ${{ needs.crowdin-translations-progress.outputs.ar }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/ar",
+                    "action_id": "button-action"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "繁体中文 zh-TW 翻译进度 ${{ needs.crowdin-translations-progress.outputs.zh-TW }}%"
+                  },
+                  "accessory": {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "去翻译",
+                      "emoji": true
+                    },
+                    "style": "danger",
+                    "value": "click_me_123",
+                    "url": "https://olaparty.crowdin.com/u/projects/17/l/zh-TW",
+                    "action_id": "button-action"
                   }
                 }
               ]
