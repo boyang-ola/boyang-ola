@@ -7,6 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
+  # github Readme 添加crowdin翻译进度，目前通过 pr 的方式 在 crowdin-translations-progress-action 目录生成 
   crowdin-translations-progress:
     runs-on: ubuntu-latest
     steps:

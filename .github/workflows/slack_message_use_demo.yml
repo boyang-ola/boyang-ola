@@ -1,0 +1,32 @@
+name: Slack Message Demo
+
+on:
+  workflow_dispatch: 
+    inputs:
+      channelId:
+        description: The channel id to send message to 
+        required: true
+        type: string
+        default:
+    
+jobs:
+  send_message_demo:
+    outputs:
+      ts: ${{ steps.send_message.outputs.ts }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Before send
+        run: echo "This step will always run --> Before send"
+
+      - name: Slack Send Message
+        id: send_message
+        uses: ./.github/workflows/slack_message_api.yml
+        with:
+          # Slack channel id, channel name, or user id to post message.
+          # See also: https://api.slack.com/methods/chat.postMessage#channels
+          channel-id: ${{ github.event.inputs.channelId }}
+
+
+      - name: After send
+        run: echo "This step will always run <-- After send"
