@@ -10,22 +10,20 @@ on:
         default:
     
 jobs:
-  before_send_message_demo:
-    steps:
-      - name: Before send
-        run: echo "This step will always run --> Before send"
+  # before_send_message_demo:
+  #   steps:
+  #     - name: Before send
+  #       run: echo "This step will always run --> Before send"
 
   send_message_demo:
-    runs-on: ubuntu-latest
-    needs: [before_send_message_demo]
     uses: ./.github/workflows/slack_message_api.yml
     with:
       # Slack channel id, channel name, or user id to post message.
       # See also: https://api.slack.com/methods/chat.postMessage#channels
       channel-id: ${{ github.event.inputs.channelId }}
 
-  after_send_message_demo:
-    needs: [before_send_message_demo, send_message_demo]
-    steps:
-      - name: Before send
-        run: echo "This step will always run --> Before send"
+  # after_send_message_demo:
+  #   needs: [before_send_message_demo, send_message_demo]
+  #   steps:
+  #     - name: Before send
+  #       run: echo "This step will always run --> Before send"
