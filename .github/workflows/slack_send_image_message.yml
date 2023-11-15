@@ -4,7 +4,7 @@ on:
   workflow_dispatch: 
     #定义需要输入的参数
     inputs:
-      imageType: 
+      type: 
         #对该参数名的描述
         description: "The type of the images"
         # 必须参数
@@ -43,8 +43,9 @@ jobs:
       - name: Download images file
         id: download_image
         run: |
-            wget `https://raw.githubusercontent.com/Riroaki/download_sexy_images/master/urls_raw/{{ github.event.inputs.imageType }}.txt`
-            imgUrl = `head -${{github.run_number}} {{ github.event.inputs.imageType }}.txt`
+            source_url = https://raw.githubusercontent.com/Riroaki/download_sexy_images/master/urls_raw/${{ github.event.inputs.type }}.txt
+            wget source_url
+            imgUrl = `head -${{github.run_number}} ${{ github.event.inputs.type }}.txt`
             echo "img_url=imgUrl" >> "$GITHUB_OUTPUT"
             echo $img_url
       - name: Slack Send Message
@@ -57,5 +58,5 @@ jobs:
           # See also: https://api.slack.com/methods/chat.postMessage#channels
           channel-id: ${{ github.event.inputs.channelId }}
           # For posting a rich message using Block Kit
-          slack-message: "${{ github.event.inputs.message }}, {{ steps.download_image.outputs.img_url }}"
+          slack-message: "${{ github.event.inputs.message }}, ${{ steps.download_image.outputs.img_url }}"
          
