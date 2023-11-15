@@ -4,13 +4,21 @@ on:
   workflow_dispatch: 
     #定义需要输入的参数
     inputs:
-      # 第一个参数名叫prbody
       channelId: 
         #对该参数名的描述
         description: "The channel id to send message to "
         # 必须参数
-        required: true
+        required: false
+        default: "C045TT24JRJ"
         type: string
+
+      message: 
+        #对该参数名的描述
+        description: "The text content of the message"
+        # 必须参数
+        required: false
+        type: string
+        default: "<!channel> :open_mouth: *测试消息*"
 jobs:
   send_message_to_channel:
 
@@ -29,17 +37,5 @@ jobs:
           # See also: https://api.slack.com/methods/chat.postMessage#channels
           channel-id: ${{ github.event.inputs.channelId }}
           # For posting a rich message using Block Kit
-          payload: |
-            {
-              "text": "执行结果: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
-              "blocks": [
-                {
-                  "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": " Github 执行结果: ${{ job.status }},\n$ Next Line: {{ github.event.pull_request.html_url || github.event.head_commit.url }}"
-                  }
-                }
-              ]
-            } 
+          slack-message: ${{ github.event.inputs.message }}
          
