@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [多个APP未收到苹果叫停摇一摇通知；OpenAI重金挖角谷歌，年薪可达1000万美元；FFmpeg 6.1发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134413571)
+- [曝小米汽车售价超 30 万元；苹果将禁止摇一摇跳转广告；Slint 1.3 发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134391329)
+- [华为悬赏200万解答技术难题；“ChatGPT 之父”暗讽马斯克：你的Grok过时了；微软视窗操作系统诞生四十周年｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134369980)
+- [李彦宏称重复造大模型将造成极大资源浪费；苹果回应将环保成本转嫁给消费者；阿里巴巴即将开源 720 亿参数大模型｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134326108)
 - [OpenAI 工程师平均薪酬 92.5 万美元；华为未独占卫星通讯功能；Fedora 39 发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134303971)
-- [苹果推迟 iPhone 和 Mac 软件更新；Office 2024 泄露｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134281904)
-- [停止向45岁以上骑手派单，美团辟谣；特斯拉为约1.1万名德国工人加薪4%；TypeScript 5.3 RC发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134260210)
-- [余承东何小鹏隔空「互怼」，车圈大佬热议 AEB；马斯克的 AI 大模型来了；OpenAI 首届开发者大会被“剧透”｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134239369)
-- [雷军亲自回应小米 14 发烫问题；Office AI 开启预购！微软定价：30美元/月；Kotlin 1.9.20发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/134196284)
 <!-- BLOG-POST-LIST:END -->
 
