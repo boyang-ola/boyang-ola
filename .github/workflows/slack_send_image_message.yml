@@ -44,10 +44,10 @@ jobs:
         id: download_image
         run: |
             source_url = https://raw.githubusercontent.com/Riroaki/download_sexy_images/master/urls_raw/${{ github.event.inputs.type }}.txt
-            wget source_url
+            wget ${{ source_url }}
             imgUrl = `head -${{github.run_number}} ${{ github.event.inputs.type }}.txt`
             echo "img_url=imgUrl" >> "$GITHUB_OUTPUT"
-            echo $img_url
+            echo ${{ img_url }}
       - name: Slack Send Message
         id: send_message
         uses: slackapi/slack-github-action@v1.24.0
