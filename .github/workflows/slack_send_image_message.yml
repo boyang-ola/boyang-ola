@@ -1,0 +1,62 @@
+name: Slack Send Sexy Image
+
+on:
+  workflow_dispatch: 
+    #定义需要输入的参数
+    inputs:
+      imageType: 
+        #对该参数名的描述
+        description: "The type of the images"
+        # 必须参数
+        required: true
+        type: choice
+        options:
+          - sexy
+          - hentai
+          - drawings
+          - neutral
+          - porn
+        default: "sexy"
+      channelId: 
+        #对该参数名的描述
+        description: "The channel id to send message to "
+        # 必须参数
+        required: false
+        default: "C045TT24JRJ"
+        type: string
+
+      message: 
+        #对该参数名的描述
+        description: "The text content of the message"
+        # 必须参数
+        required: false
+        type: string
+        default: "<!channel> :rose: *今日图图送达*"
+jobs:
+  send_message_to_channel:
+
+    outputs:
+      ts: ${{ steps.send_message.outputs.ts }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download images file
+        id: download_image
+        run: |
+            wget https://raw.githubusercontent.com/Riroaki/download_sexy_images/master/urls_raw/{{ github.event.inputs.imageType }}.txt
+            imgUrl = `head -${{github.run_number}} {{ github.event.inputs.imageType }}.txt`
+            echo "img_url=imgUrl" >> "$GITHUB_OUTPUT"
+            echo $img_url
+      - name: Slack Send Message
+        id: send_message
+        needs: [download_image]
+        uses: slackapi/slack-github-action@v1.24.0
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        with:
+          # Slack channel id, channel name, or user id to post message.
+          # See also: https://api.slack.com/methods/chat.postMessage#channels
+          channel-id: ${{ github.event.inputs.channelId }}
+          # For posting a rich message using Block Kit
+          slack-message: "${{ github.event.inputs.message }}, {{ steps.download_image.outputs.img_url }}"
+         
