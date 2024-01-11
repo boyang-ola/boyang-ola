@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [GPT 商店正式上线；​谷歌 AI 芯片侵权案或赔偿 16.7 亿美元；R 包知名开发者谢益辉从 Rstudio 离职｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/135519174)
 - [小米手机销量登顶国产第一；欧盟拟审查微软对 OpenAI 的投资；LangChain 0.1.0 发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/135495686)
 - [字节回应朝夕光年正与腾讯谈判出售多款游戏；苹果Vision Pro将于2月2日在美上市；Linux 6.7 发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/135472072)
 - [微信私密朋友圈被吐槽有bug；iPhone 电池门赔款开始陆续到账；Midjourney 迎来大升级｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/135449334)
 - [北京程序员年收入中位数超 60 万元；OpenAI 拟下周推出 GPT 商店；钉钉个人版全量上线｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/135402113)
-- [取代iOS，鸿蒙将成为中国第二大智能手机操作系统；Vision Pro或将本月底上架；VCoder：大语言模型的眼睛｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/135378571)
 <!-- BLOG-POST-LIST:END -->
 
