@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [酒那么难喝，为什么那么多人还喜欢喝酒？](https://daily.zhihu.com/story/9763334)
-- [既然生命是为了繁衍生存，为何大部分植物未能演化出避免被吃掉的「武器」？](https://daily.zhihu.com/story/9763326)
-- [宇宙中有哪些奇异的卫星？](https://daily.zhihu.com/story/9763336)
-- [No title](https://daily.zhihu.com/story/9763339)
-- [No title](https://daily.zhihu.com/story/9763324)
+- [雷军回应「小米造车造晚了」；OpenAI 或筹划自研芯片；英伟达回应黄仁勋中国行 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/135743484)
+- [字节调整绩效和激励政策，年终奖统一为3个月薪酬；华为发布鸿蒙星河版；微软研究院回应关闭传言 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/135689146)
+- [OpenAI CEO奥特曼首次回忆“宫斗门”；传字节加速将TikTok员工调遣至海外；Wine 9.0正式版发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/135689018)
+- [阿里云起诉山寨通义千问App一审胜诉；苹果成为2023年智能手机销售冠军；Win 11彻底消灭写字板 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/135641802)
+- [马斯克旗下X距离“美版微信”再进一步；华为纯血鸿蒙首批开发者预览版Beta招募；Linux 6.8暂停合并 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/135617486)
 <!-- BLOG-POST-LIST:END -->
 
