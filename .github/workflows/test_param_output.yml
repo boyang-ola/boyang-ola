@@ -1,0 +1,48 @@
+name: Test Param Output
+
+on:
+  workflow_dispatch: 
+    #定义需要输入的参数
+    inputs:
+      channelName: 
+        #对该参数名的描述
+        description: "The channel Name to send message to "
+        # 必须参数
+        required: false
+        default: "pati-client-bot"
+        type: choice
+        options:
+          - "pati-client-bot"
+          - "国际版翻译群"
+          - "pa-客户端"
+
+jobs:
+  send_message_to_channel:
+
+    outputs:
+      ts: ${{ steps.send_message.outputs.ts }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Maping channelName to channelId
+        id: mapping_channel
+        run: |
+          if [ "${{ github.event.inputs.channelName }}" == "pati-client-bot" ]; then
+            echo "channelName = pati-client-bot"
+            echo "channelId=C05LDTQUQ30" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.inputs.channelName }}" == "国际版翻译群" ]; then
+            echo "channelName = 国际版翻译群"
+            echo "channelId=C0477LUU11N" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.inputs.channelName }}" == "pa-客户端" ]; then
+            echo "channelName = pa-客户端"
+            echo "channelId=C06C7Q7JW1Z" >> "$GITHUB_OUTPUT"
+          else
+            echo "test"
+            echo "selected-stage=test" >> "$GITHUB_OUTPUT"
+          fi
+        
+      - name: Print finel chanel info
+        run: |
+          echo channelName = ${{ github.event.inputs.channelName }}
+          echo channelId = ${{ steps.mapping_channel.outputs.channelId }}
+         
