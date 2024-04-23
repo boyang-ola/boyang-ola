@@ -1,0 +1,81 @@
+# There are 2 cases this workflow will run.
+# 1. Workflow Dispatch: called when user tries to build debug or release build
+# 2. Workflow call: Called as a reusable workflow in another repo when build store build
+
+name: Build App V2
+run-name: "Build App branch: ${{github.ref_name}}, type: ${{inputs.build_type}}, platform: ${{inputs.platform}}"
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      build_type:
+        type: choice
+        description: Build type
+        options:
+          - profile
+          - release
+        required: true
+        default: 'debug'
+      build_desc:
+        description: App build description
+        required: false
+        type: string
+        default:
+      slack_channel:
+        description: Slack channel id to notify
+        required: false
+        type: string
+        default: 'C05LDTQUQ30'
+      platform:
+        description: Build for platform(s).
+        required: true
+        type: choice
+        options:
+          - android
+          - ios
+          - both
+        default: 'both'
+      android_target_platform:
+        description: Android target platform
+        required: true
+        type: choice
+        options:
+          - android-arm64
+          - android-arm,android-arm64
+        default: 'android-arm64'
+      clean:
+        description: Clean build
+        required: false
+        type: boolean
+        default: false
+      run_machine_label:
+        description: 指定打包的机器
+        required: true
+        type: choice
+        options:
+          - pati-client
+          - tory
+        default: 'pati-client'
+
+
+jobs:
+
+  build-apk:
+    runs-on: ubuntu-latest
+    env:
+      BUILD_NUMBER: ${{github.run_number}}
+      BUILD_PLATFORM: Android
+      BUILD_TYPE: ${{inputs.build_type}}
+      BUILD_DESCRIPTION: ${{inputs.build_desc}}
+      BUILD_VERSION_NAME: ${{inputs.version_name}}
+      SLACK_NOTIFY_HOOK_URL: ${{vars.SLACK_NOTIFY_HOOK_URL}}
+      SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: notify to slack
+        id: slack-notification
+        run: |
+          sh ./tools/ci_workflow/build_notify_slack_v2.sh true
