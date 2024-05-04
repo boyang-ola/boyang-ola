@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [酒那么难喝，为什么那么多人还喜欢喝酒？](https://daily.zhihu.com/story/9763334)
-- [既然生命是为了繁衍生存，为何大部分植物未能演化出避免被吃掉的「武器」？](https://daily.zhihu.com/story/9763326)
-- [宇宙中有哪些奇异的卫星？](https://daily.zhihu.com/story/9763336)
-- [No title](https://daily.zhihu.com/story/9763339)
-- [No title](https://daily.zhihu.com/story/9763324)
+- [网易暴雪官宣合作；马云内部发帖肯定阿里一年改革；Android Studio整合Gemini 1.0 Pro | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137584706)
+- [智己汽车向小米汽车致歉；马斯克预测：AI 有望在明年超越最聪明的人类；HTTP/2 协议被曝安全漏洞 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137543273)
+- [谷歌考虑对AI搜索收费；扎克伯格超越马斯克成全球第三大富豪；通义千问开源 320 亿参数模型 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137501408)
+- [雷军回应小米为什么造车快；蔡崇信反思阿里过往；苹果公司裁员超600人 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/137461220)
+- [中国IT工程师薪资超过日本；王慧文以顾问身份回归美团；Bun 1.1 发布，支持Windows｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/137335325)
 <!-- BLOG-POST-LIST:END -->
 
