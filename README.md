@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [酒那么难喝，为什么那么多人还喜欢喝酒？](https://daily.zhihu.com/story/9763334)
-- [既然生命是为了繁衍生存，为何大部分植物未能演化出避免被吃掉的「武器」？](https://daily.zhihu.com/story/9763326)
-- [宇宙中有哪些奇异的卫星？](https://daily.zhihu.com/story/9763336)
-- [No title](https://daily.zhihu.com/story/9763339)
-- [No title](https://daily.zhihu.com/story/9763324)
+- [微软必应全球宕机，波及ChatGPT；刘强东被曝经常深夜发语音安排业务；Meta高管称大模型不会达到人类智能水平 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139169405)
+- [360 客服回应弹窗广告关不完；拼多多市值再超阿里巴巴；我国发布全球首个开源大规模片上互联网络 IP「温榆河」|极客头条](https://blog.csdn.net/weixin_39786569/article/details/139151936)
+- [字节、阿里、百度相继跟进AI大模型价格战；欧盟已批准人工智能法案 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139107790)
+- [与Mac竞争，微软发布新型「Copilot+PC」；AI配音被指酷似知名演员，OpenAI紧急宣布停用 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139086517)
+- [OpenAI回应“封嘴”离职条款；滴滴程维：柳青升任永久合伙人，公司不再设总裁岗位；​NetBSD禁止AI生成代码 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139055683)
 <!-- BLOG-POST-LIST:END -->
 
