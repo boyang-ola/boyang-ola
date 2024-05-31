@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [字节辟谣TikTok曾提议将控制权交给美国；小米回应收购恒大汽车传闻；iOS 18首个正式版无缘AI Siri | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139340580)
 - [OpenAI CEO Altman 宣布将捐出大部分财产；​俄罗斯考虑对使用外国软件的企业收费 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139317767)
 - [百度沈抖：主力模型免费的原因很朴素，希望大家别再天天拉表格比价格；黄仁勋身家飙升至 6000 亿；微软晒 Edge 浏览器改进｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/139284722)
 - [马斯克的xAI拿下60亿美元融资；微软取消Win11 TPM要求，仅限物联网企业版 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139273951)
 - [刘强东回应京东严抓考勤；马斯克560亿美元天价薪酬受质疑；ICQ将于6月26日起停止服务 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139235862)
-- [微软必应全球宕机，波及ChatGPT；刘强东被曝经常深夜发语音安排业务；Meta高管称大模型不会达到人类智能水平 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139169405)
 <!-- BLOG-POST-LIST:END -->
 
