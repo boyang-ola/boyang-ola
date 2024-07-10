@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [去哪儿网推行灵活办公，每周可居家办公2天；小米工程师打造的安全智能头盔获奖10万 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140317930)
 - [传微软中国员工禁用Android手机改用iPhone；​ChatGPT被曝加入验证码；周鸿祎称大模型是风口不是泡沫 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140287132)
 - [内部人士：AMD曾经差点收购NVIDIA；央视评App自动续费：“进坑”容易“出坑”难；​谷歌被曝开发系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140261522)
 - [​李彦宏：AI时代应避免掉入超级应用陷阱；黑客曾窃取了OpenAI核心AI技术细节但公司守口如瓶| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140202069)
 - [何小鹏：汽车行业很少人认真做技术；过去十年中国生成式AI专利申请量居全球第一；苹果前员工涉嫌内幕交易被罚838万元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140181669)
-- [华为回应25亿元转让“问界”商标等；苹果或获得OpenAI董事会观察员职位；​阿里云回应B站、小红书崩了 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140150185)
 <!-- BLOG-POST-LIST:END -->
 
