@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [周鸿祎谈为何微软蓝屏故障在中国少：大多数电脑用360；华为起诉联发科，向上游收专利费；OpenAI造芯计划再曝新进展| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140602803)
 - [阿里要求各业务「有经营意识」；小鹏回应数百名大众工程师入驻总部；OpenAI发布GPT-4o mini | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140540847)
 - [雷军回应被指会搞流量；OpenAI营收拆解：84%来自近千万名ChatGPT付费用户；苹果发布iOS 18公开测试版| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140515539)
 - [自动回复朋友圈，苹果回应iPhone鬼手现象；雷军本周五年度演讲，分享小米造车这三年；OpenAI创始大神卡帕西创业| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140493589)
 - [华为余承东回应「25 亿元转让问界」；鸿蒙 PC 版现身华为开发者官网；Linux Kernel 6.10释出 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/140460086)
-- [OpenAI遭指控：非法阻止员工披露AI安全风险；北航本科生芯片设计团队成功流片两款CPU；谷歌终止安卓5.X支持 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/140431752)
 <!-- BLOG-POST-LIST:END -->
 
