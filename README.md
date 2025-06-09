@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
-- [酒那么难喝，为什么那么多人还喜欢喝酒？](https://daily.zhihu.com/story/9763334)
-- [既然生命是为了繁衍生存，为何大部分植物未能演化出避免被吃掉的「武器」？](https://daily.zhihu.com/story/9763326)
-- [宇宙中有哪些奇异的卫星？](https://daily.zhihu.com/story/9763336)
-- [No title](https://daily.zhihu.com/story/9763339)
-- [No title](https://daily.zhihu.com/story/9763324)
+- [荣耀高管曝被友商放话：不让荣耀翻身；Win11 WSA项目已终结；鸿蒙电脑版微信采用跨平台开发 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148529915)
+- [腾讯回应全球首个满级QQ账号诞生；周鸿祎：准备干掉360整个市场部；微软发布AI Agent故障白皮书 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148491503)
+- [华为和小鹏预告战略合作；高通CEO回应与苹果「分手」；OpenAI或下个月发布GPT-5 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148445188)
+- [雷军辟谣小米YU7起售价23.59万元；英伟达重回全球市值第一；a16z华人明星项目95后联创再创业 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148421243)
+- [游戏开发者亲述：卖2000万到手只有29万；微软CEO：裁员6000人系战略调整而非解雇；Win11 Beta版再更新|极客头条](https://blog.csdn.net/weixin_39786569/article/details/148396098)
 <!-- BLOG-POST-LIST:END -->
 
