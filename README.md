@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 # 每日推荐阅读
 <!-- BLOG-POST-LIST:START -->
+- [华为天才少年挑战课题发布；苹果回应「用户再也不敢乱用emoji了」；MiniMax深夜开源首个推理模型M1 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148713060)
 - [雷军：小米YU7将于6月底发布；微软回应Win11遭用户痛批；百度启动大规模顶尖AI人才招聘 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148686051)
 - [阿里蔡崇信自曝：被DeepSeek逼急，工程师春节无休搞研发；谷歌云服务严重宕机；夸克发布首个高考志愿大模型 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148627309)
 - [苹果客服回应iOS 26被吐槽丑；OpenAI宣布o3降价80%，推出最强大模型o3-pro；谷歌正式发布安卓16 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148584824)
 - [荣耀高管曝被友商放话：不让荣耀翻身；Win11 WSA项目已终结；鸿蒙电脑版微信采用跨平台开发 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148529915)
-- [腾讯回应全球首个满级QQ账号诞生；周鸿祎：准备干掉360整个市场部；微软发布AI Agent故障白皮书 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/148491503)
 <!-- BLOG-POST-LIST:END -->
 
